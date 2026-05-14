@@ -43,48 +43,15 @@ dhruv = {
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛡️ AegisRAG</h3>
-      <p align="center">
-        <a href="https://github.com/DhruvParmar051/AegisRAG">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvParmar051&repo=AegisRAG&theme=dark&bg_color=0d0f0e&title_color=3afaac&icon_color=3afaac&hide_border=true"/>
-        </a>
-      </p>
-      <p align="center">Production RAG system with faithfulness evaluation and active re-retrieval</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">✈️ Aircraft Engine Failure Forecasting</h3>
-      <p align="center">
-        <a href="https://github.com/DhruvParmar051/Aircraft-Engine-Failure-Forecasting">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvParmar051&repo=Aircraft-Engine-Failure-Forecasting&theme=dark&bg_color=0d0f0e&title_color=3afaac&icon_color=3afaac&hide_border=true"/>
-        </a>
-      </p>
-      <p align="center">LSTM-based RUL estimation for turbofan engines using CMAPSS dataset</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💳 P2P Lending Risk Management</h3>
-      <p align="center">
-        <a href="https://github.com/DhruvParmar051/peer_to_peer_lending_risk_management">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvParmar051&repo=peer_to_peer_lending_risk_management&theme=dark&bg_color=0d0f0e&title_color=3afaac&icon_color=3afaac&hide_border=true"/>
-        </a>
-      </p>
-      <p align="center">Stacking ensemble of XGBoost, LightGBM, CatBoost for loan default prediction</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 Book Recommendation System</h3>
-      <p align="center">
-        <a href="https://github.com/DhruvParmar051/book-recommendation-system">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvParmar051&repo=book-recommendation-system&theme=dark&bg_color=0d0f0e&title_color=3afaac&icon_color=3afaac&hide_border=true"/>
-        </a>
-      </p>
-      <p align="center">End-to-end ETL pipeline, Google Books enrichment, FastAPI backend</p>
-    </td>
-  </tr>
-</table>
+| | Project | Description | Stack |
+|---|---|---|---|
+| 🛡️ | [**AegisRAG**](https://github.com/DhruvParmar051/AegisRAG) | Production RAG system with faithfulness evaluation and active re-retrieval | `Python` `LLM` `Vector DB` |
+| ✈️ | [**Aircraft Engine Failure Forecasting**](https://github.com/DhruvParmar051/Aircraft-Engine-Failure-Forecasting) | LSTM-based RUL estimation for turbofan engines on CMAPSS dataset | `PyTorch` `LSTM` `Time Series` |
+| 💳 | [**P2P Lending Risk Management**](https://github.com/DhruvParmar051/peer_to_peer_lending_risk_management) | Stacking ensemble of XGBoost, LightGBM, CatBoost for loan default prediction | `XGBoost` `LightGBM` `CatBoost` |
+| 📈 | [**Portfolio Optimization with ML**](https://github.com/DhruvParmar051/portfolio_optimization-ml) | ML-driven portfolio construction with regime-aware allocation | `PyTorch` `scikit-learn` `NumPy` |
+| 📚 | [**Book Recommendation System**](https://github.com/DhruvParmar051/book-recommendation-system) | End-to-end ETL pipeline, Google Books enrichment, FastAPI backend | `FastAPI` `ETL` `SQLite` |
+| 🔍 | [**Credit Default Risk Management**](https://github.com/DhruvParmar051/Credit_Card_Fraud_Detection) | Credit risk prediction with SMOTE, high recall on default class | `XGBoost` `Random Forest` `SMOTE` |
+| 📊 | [**PageRank Implementation**](https://github.com/DhruvParmar051/ranking_of_webpage) | PageRank from scratch on Stanford's Google Web Graph (millions of edges) | `Python` `Graph Algorithms` `DSA` |
 
 ---
 
