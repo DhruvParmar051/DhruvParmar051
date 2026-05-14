@@ -132,8 +132,9 @@ dhruv = {
 
 <br/>
 
+<!-- Contribution grid — ghchart, zero dependencies, always renders -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvParmar051&bg_color=0d0f0e&color=3afaac&line=3afaac&point=ffffff&area=true&area_color=3afaac&hide_border=true&radius=6" width="95%"/>
+  <img src="https://ghchart.rshah.org/3afaac/DhruvParmar051" alt="Dhruv's Contribution Graph" width="95%"/>
 </div>
 
 ---
@@ -167,14 +168,6 @@ dhruv = {
 | What is Generative AI? | LinkedIn Learning |
 | Flipkart GRiD 5.0 | Unstop |
 
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DhruvParmar051/DhruvParmar051/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
