@@ -132,9 +132,8 @@ dhruv = {
 
 <br/>
 
-<!-- Contribution grid — ghchart, zero dependencies, always renders -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/3afaac/DhruvParmar051" alt="Dhruv's Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvParmar051&bg_color=0d0f0e&color=3afaac&line=3afaac&point=3afaac&area=true&area_color=1db87a&hide_border=true&radius=6&title_color=3afaac" width="95%"/>
 </div>
 
 ---
