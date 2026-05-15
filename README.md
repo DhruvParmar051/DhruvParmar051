@@ -124,20 +124,6 @@ dhruv = {
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DhruvParmar051&theme=dark&hide_border=true&background=0d0f0e&ring=3afaac&fire=3afaac&currStreakLabel=3afaac&sideLabels=e8ede9&dates=7a8c82" width="60%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvParmar051&bg_color=0d0f0e&color=3afaac&line=3afaac&point=3afaac&area=true&area_color=1db87a&hide_border=true&radius=6&title_color=3afaac" width="95%"/>
-</div>
-
----
-
 ## 💼 Experience
 
 <div align="center">
